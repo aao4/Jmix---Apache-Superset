@@ -53,11 +53,11 @@ volumes:
 ```
 > [!CAUTION]
 >En caso de que tengas PostgreSQL local usando el puerto 5432, puedes sustituirlo para evitar conflictos:
-
-```yaml
-ports:
-    - 5433:5432
-```
+>
+>```yaml
+>ports:
+>    - 5433:5432
+>```
 
 Ejecuta el siguiente comando en el directorio del repositorio clonado para lanzarlo:
 
@@ -185,19 +185,3 @@ Haz click en `Test Connection` para comprobar que la conexión a la base de dato
 ![Postgresql Connect Success](./images/postgresql_connect_success.png)
 
 La aplicación está lista para comunicarse con Superset.
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
