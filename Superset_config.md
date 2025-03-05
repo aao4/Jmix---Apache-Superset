@@ -178,11 +178,11 @@ Cambia el tipo de almacenamiento de `HSQLDB` a `PostgreSQL` especificando los da
 - **Usuario**: `jmix`.
 - **Contraseña**: `jmix`.
 
-![Postgresql Connect](images/postgresql_connect.png)
+![Postgresql Connect](./images/postgresql_connect.png)
 
 Haz click en `Test Connection` para comprobar que la conexión a la base de datos se ha configurado correctamente.
 
-![Postgresql Connect Success](images/postgresql_connect_success.png)
+![Postgresql Connect Success](./images/postgresql_connect_success.png)
 
 La aplicación está lista para comunicarse con Superset.
 
