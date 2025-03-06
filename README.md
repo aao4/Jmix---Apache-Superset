@@ -1,7 +1,7 @@
 # Jmix Superset
 
 ## Índice
-1. [Introducción](Superset.md#Introducción)
+1. [Introducción](README.md#Introducción)
 2. [Configuración](Superset_config.md#Configuración)
 3. [Dataset](Superset_dataset.md#Dataset)
 4. [Gráficos](Superset_graficos.md#Gráficos)
