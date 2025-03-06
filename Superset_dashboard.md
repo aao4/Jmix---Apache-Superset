@@ -6,6 +6,7 @@
 3. [Dataset](Superset_dataset.md#Dataset)
 4. [Gráficos](Superset_graficos.md#Gráficos)
 5. [Dashboard](Superset_dashboard.md#Dashboard)
+6. [Problemas](Superset_problems.md#problema-bucle-infinito-building-front-end-development-bundle-en-jmix-con-intellij-idea)
 
 ## Dashboard
 
